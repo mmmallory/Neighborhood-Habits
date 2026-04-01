@@ -67,7 +67,7 @@ If you use this code in your research, please cite:
   year    = {},
   volume  = {},
   pages   = {},
-  doi     = {}
+  doi     = {https://doi.org/10.5281/zenodo.19371296}
 }
 ```
 
